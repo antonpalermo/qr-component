@@ -1,5 +1,11 @@
-import { Attribution } from "./components/Attribution"
+import { Attribution } from './components/Attribution'
+import { Card } from './components/Card'
 
 export function App() {
-  return <Attribution />
+  return (
+    <div style={{ position: 'relative' }}>
+      <Card />
+      <Attribution />
+    </div>
+  )
 }
