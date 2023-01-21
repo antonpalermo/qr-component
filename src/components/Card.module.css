@@ -1,0 +1,11 @@
+.cardContainer {
+  border-radius: 1.25rem;
+  padding: 1rem;
+  background-color: hsl(0, 0%, 100%);
+}
+
+.image {
+  width: 18rem;
+  height: 18rem;
+  border-radius: 0.625rem;
+}

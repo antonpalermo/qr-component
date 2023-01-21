@@ -1,11 +1,16 @@
-import { Attribution } from './components/Attribution'
 import { Card } from './components/Card'
 
 export function App() {
   return (
-    <div style={{ position: 'relative' }}>
+    <div
+      style={{
+        height: '100vh',
+        display: 'flex',
+        justifyContent: 'center',
+        alignItems: 'center'
+      }}
+    >
       <Card />
-      <Attribution />
     </div>
   )
 }

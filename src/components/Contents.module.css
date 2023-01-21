@@ -1,0 +1,16 @@
+.heading {
+  font-size: 1.375rem;
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+  max-width: 18rem;
+  text-align: center;
+}
+
+.paragraph {
+  max-width: 16.25rem;
+  margin: auto;
+  text-align: center;
+  line-height: 1.188rem;
+  letter-spacing: -0.015em;
+  color: hsl(220, 15%, 55%);
+}
