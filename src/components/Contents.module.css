@@ -9,6 +9,8 @@
 .paragraph {
   max-width: 16.25rem;
   margin: auto;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   text-align: center;
   line-height: 1.188rem;
   letter-spacing: -0.015em;
