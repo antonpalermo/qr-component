@@ -12,7 +12,7 @@ export function App() {
         alignItems: 'center'
       }}
     >
-      <Card />  
+      <Card />
       <Attribution />
     </div>
   )
